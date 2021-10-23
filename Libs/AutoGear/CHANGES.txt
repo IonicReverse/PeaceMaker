@@ -1,0 +1,42 @@
+lightweight tag 832d7fa94f25895de686424820505a4fc8c4f466 2020-10-04-release
+Author:	GitHub <noreply@github.com>
+Date:	Sun Oct 4 16:55:20 2020 -0700
+
+commit f24bdf212617bc143452efc5f5f41216eb8acb28
+Author: Zan2017 <zeribus1@yahoo.com>
+Date:   Sun Oct 4 09:16:05 2020 -0500
+
+    Update to Shadowlands 9.0.1
+    
+    Revisions made for local maxPlayerLevel = GetMaxLevelForExpansionLevel(GetExpansionLevel())
+
+commit f24bdf212617bc143452efc5f5f41216eb8acb28
+Author: Zan2017 <zeribus1@yahoo.com>
+Date:   Sun Oct 4 09:16:05 2020 -0500
+
+    Update to Shadowlands 9.0.1
+    
+    Revisions made for local maxPlayerLevel = GetMaxLevelForExpansionLevel(GetExpansionLevel())
+
+commit 07ff3e2a700d11c2b56a179383f322cce87ac4eb
+Author: Zan2017 <zeribus1@yahoo.com>
+Date:   Sat Oct 3 14:04:46 2020 -0500
+
+    Updated for Shadowlands 9.0.1 PTR
+    
+    Revisions made per owners request. Tested across Shadowlands, BFA, & Classic. All quest turn-ins are working properly. Reverted changes to "QUEST_GREETING".
+
+commit 514b369be47566962f45a4afcb949387764fb932
+Author: Zan2017 <zeribus1@yahoo.com>
+Date:   Sat Oct 3 14:01:01 2020 -0500
+
+    Updated for Shadowlands 9.0.1 PTR
+    
+    Revisions made per owners request. Tested across Shadowlands, BFA, & Classic. All quest turn-ins are working properly. Reverted changes to "QUEST_GREETING".
+
+commit 1d6949713b820ab78fbb3620af6255e76e5a94fc
+Author: Zan2017 <zeribus1@yahoo.com>
+Date:   Sat Oct 3 13:12:27 2020 -0500
+
+    Updated to Shadowlands 9.0.1
+

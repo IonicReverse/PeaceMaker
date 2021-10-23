@@ -1,0 +1,3 @@
+PeaceMaker.Enums.Los = {
+  
+}
